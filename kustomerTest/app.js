@@ -20,7 +20,7 @@ $.ajax(settings).done(function (response) {
 });*/
 
 var data = JSON.stringify({
-  "name": "Regan Luettgen",
+  "name": "Test NAME ONLY",
   "emails": [
     {
       "email": "Anais36@fakehotmail.com"
